@@ -3,6 +3,7 @@ UserConfiguration.txt for Code45 that maps encoders to the macro bank currently 
 
 # Installation
 
+
 Copy the `UserConfiguration.txt` file into a *new* folder in your Ableton Preferences folder. On MacOS, the folder is in `~/Library/Preferences/Ableton/Live 10.0.1/User Remote Scripts`. The folder name is used as the name in Ableton's midi configuration selection drop down.
 
 For example, I have the file stored at:
